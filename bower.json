@@ -1,0 +1,19 @@
+{
+  "name": "chartman",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sammcgrail/chartman",
+  "authors": [
+    "sammcgrail <sammcgrail@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chartist": "~0.7.2"
+  }
+}
